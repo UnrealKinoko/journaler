@@ -20,3 +20,6 @@ go.work.sum
 
 # Local binary
 journaler
+
+# test use home directory
+home/
